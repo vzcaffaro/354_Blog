@@ -1,8 +1,8 @@
 ## Blog
 
-### Vincent Caffaro<br/>
-### Professor Alexander Kurz<br/>
-### CPSC 354-01
+**Vincent Caffaro**<br/>
+**Professor Alexander Kurz** <br/>
+**CPSC 354-01**
 
 Entry 01<br/>
 Entry 02<br/>
