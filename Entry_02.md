@@ -7,10 +7,14 @@ However, our representation of numbers is not very efficient from a testing poin
 
 ### Thoughts on Homework
 
-The homework this week was actually quite enjoyable as it required me to think back to the theories discussed in Discrete Math in order to implement the functions. Luckily, I was able to use the algorithms we defined in MATH250 for counting, addition, subtraction, and division. Division was the only one that took some time, but I was able to solve it once I thought back to the basic algorithm for division. For div (Num n) (Num m), the quotient is incremented every time m goes into n. So we recursively define division to be:
+The homework this week was actually quite enjoyable as it required me to think back to the theories discussed in Discrete Math in order to implement the functions. Luckily, I was able to use the algorithms we defined in MATH250 for counting, addition, subtraction, and division. Division was the only one that took some time, but I was able to solve it once I thought back to the basic algorithm for division. For div (Num n) (Num m), the quotient is incremented every time m goes into n. So we recursively define division to be:</br>
+
+```
 	div :: NN -> NN -> NN
 	div n O = error "cannot divide by zero"
 	div O m = O
 	div n m = if (less n m) then add O (div (subtr n m) m)
         	else add (S O) (div (subtr n m) m)
+```
+
 The last exercise of the homework was also optional but was well worth implementing. If you redefine all of your functions to return an Exp instead of NN, the calculation is made using the recursive set NN that we defined, but both input and output of the functions use Num Int, which makes the calculator much more readable and testable from a programmers perspective.</br>
