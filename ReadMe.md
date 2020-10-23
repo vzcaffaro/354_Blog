@@ -5,7 +5,7 @@
 **CPSC 354-01**
 
 - [Entry 01](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_01.md)<br/>
-- Entry 02<br/>
+- [Entry 02](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_02.md)<br/>
 - Entry 03<br/>
 - Entry 04<br/>
 - Entry 05<br/>
