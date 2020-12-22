@@ -19,13 +19,13 @@ While contemplating this problem, I couldn't help but think of writing a program
 My first thought on implementing this was to simply turn the decimal x into x Is, but then I realized this would be highly inefficient for large numbers.
 My solution to this would be to translate the number using its indeces seeing as they represent powers of 10.
 Assuming the rightmost decimal to be index 0, the computation would be as follows:
-- # Is = indx_0 % 5
-- # Vs = indx_0 / 5
-- # Xs = indx_1 % 5
-- # Ls = indx_1 / 5
-- # Cs = indx_2 % 5
-- # Ds = indx_2 / 5
-- # Ms = indx_3 + 10*indx_4 + 100*indx_5 and so on
+- num Is = indx_0 % 5
+- num Vs = indx_0 / 5
+- num Xs = indx_1 % 5
+- num Ls = indx_1 / 5
+- num Cs = indx_2 % 5
+- num Ds = indx_2 / 5
+- num Ms = indx_3 + 10 * indx_4 + 100 * indx_5 and so on
 
 While this in and of itself does not have many applications, I thought it would be interesting if one could come up with an encryption pattern using our ARSs.
 While I am not familiar with existing encryption algorithms, I figured it would be possible if we wrote an ARS that takes in an ordinary Roman numeral and outputs a rewritten numeral with a different value. The decryption would be the reflexive opposite of this ARS.
