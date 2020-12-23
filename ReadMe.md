@@ -9,10 +9,10 @@
 - [Entry 03](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_03.md)<br/>
 - [Entry 04](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_04.md)<br/>
 - [Entry 05](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_05.md)<br/>
-- Entry 06<br/>
-- Entry 07<br/>
-- Entry 08<br/>
-- Entry 09<br/>
-- Entry 10<br/>
+- [Entry 06](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_06.md)<br/>
+- [Entry 07](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_07.md)<br/>
+- [Entry 08](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_08.md)<br/>
+- [Entry 09](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_09.md)<br/>
+- [Entry 10](https://github.com/vzcaffaro/354_Blog/blob/master/Entry_10.md)<br/>
 
  
