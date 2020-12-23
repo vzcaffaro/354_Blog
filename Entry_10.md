@@ -1,19 +1,5 @@
 # Entry 10
 
-### Thoughts on the Final
-
-Question 3 on the final was very intriguing to me. 
-I've always found the roman numeral system to be interesting, so formulating rewrite rules captivated my attention.
-
-Of all the questions, the measure functions in 3.7 proved to be the most time consuming.
-I was tired of using base-10 measure functions, yet I could not conceive a different measure function for 3.1/3.2.
-A lazy comprimise to this was the octal number base.
-While unfamiliar with octal, I learned hexadecimal earlier this year and, of course, have been familiar with base-10 all of my life.
-Octal was very easy to learn, following the same form as base-10 and hex, just using 8 instead of 10 and 16.
-It made sense to me that octal has been used in computers for quite some time, as each octal bit is simply 3 binary bits grouped.
-One interesting thing I learned is that octal has been around for much longer than computers, as some civilizations use the spaces in-between their fingers to count rather than the actual fingers themselves.
-
-
 ### Thoughts Beyond the Final
 While contemplating this problem, I couldn't help but think of writing a program to translate decimal numbers to numerals.
 My first thought on implementing this was to simply turn the decimal x into x Is, but then I realized this would be highly inefficient for large numbers.
