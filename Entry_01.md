@@ -1,4 +1,6 @@
 # Entry 01
+# Week 1
+
 
 ### Thoughts on Lecture
 Being a Computer Science major, I have accumulated some experience in coding with imperative languages. Honestly, before taking this class, I was unaware of the distinction between functional and imperative programming languages.
