@@ -13,7 +13,7 @@ This can be identified by the absence of reflexive rewrite rules.
 
 For an example: Let (A,->) be an ARS spanning elements {a,b}, and let relation -> be defined as:
 - ab -> ba
-- ba -> ab
+- ba -> ab<br/>
 Obviously, this is not a complete rewrite system.
 For now, consider it a base that would be expanded upon.
 At first glance, these two rules seem very helpful.
